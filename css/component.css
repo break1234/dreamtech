@@ -52,21 +52,7 @@
 		top:20%;
 	}
 }
-@media only screen and (max-width : 468px) {
-	.demo-1 .main-title, 
-	.demo-3 .main-title,
-	.demo-4 .main-title {
-		top:5%;
-		font-size: 0.5em;
-	}
 
-	.demo-2 .main-title {
-		font-size: 3em;
-	}
-	.login{
-		top:15%;
-	}
-}
 @media only screen and (max-width : 468px) {
 	.demo-1 .main-title, 
 	.demo-3 .main-title,
