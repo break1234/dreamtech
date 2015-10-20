@@ -52,7 +52,7 @@
 		top:20%;
 	}
 }
-/*@media only screen and (max-width : 468px) {
+@media only screen and (max-width : 468px) {
 	.demo-1 .main-title, 
 	.demo-3 .main-title,
 	.demo-4 .main-title {
@@ -64,9 +64,9 @@
 		font-size: 3em;
 	}
 	.login{
-		top:7%;
+		top:15%;
 	}
-}*/
+}
 .login{
 	position: absolute;
 	z-index: 1000;
