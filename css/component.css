@@ -52,7 +52,7 @@
 		top:20%;
 	}
 }
-@media only screen and (max-width : 468px) {
+/*@media only screen and (max-width : 468px) {
 	.demo-1 .main-title, 
 	.demo-3 .main-title,
 	.demo-4 .main-title {
@@ -66,12 +66,12 @@
 	.login{
 		top:7%;
 	}
-}
+}*/
 .login{
 	position: absolute;
 	z-index: 1000;
 	/*left: 50%;*/
-	top: 30%;
+	top: 20%;
 	width: 100%;
 }
 body{
