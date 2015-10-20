@@ -41,11 +41,15 @@
 	.demo-1 .main-title, 
 	.demo-3 .main-title,
 	.demo-4 .main-title {
+		top:15%;
 		font-size: 3em;
 	}
 
 	.demo-2 .main-title {
 		font-size: 4em;
+	}
+	.login{
+		top:24%;
 	}
 }
 .login{
