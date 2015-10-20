@@ -88,10 +88,10 @@ body{
 }
 .loading p{
 	font-weight: 20px;
-	width: 40px;
+	width: 100px;
 	position: absolute;
 	left: 50%;
-	margin-left: 20px;
+	margin-left: -50px;
 	top: 45%;
 	color:black;
 	text-align: center;
