@@ -1,4 +1,4 @@
 
 $(function(){
-	$(".loading").fadeOut();
+	$(".demo-1").fadeIn();
 })
