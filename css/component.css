@@ -57,6 +57,7 @@
 	}
 	.tran{
 		font-size: 1em;
+		margin-top: 30%;
 	}
 
 	.demo-2 .main-title {
@@ -75,13 +76,14 @@
 		top:10%;
 	}
 	.tran{
-		font-size: 0.1em;
+		font-size: 0.8em;
+		margin-top: 15%
 	}
 	.demo-2 .main-title {
 		font-size: 4em;
 	}
 	.login{
-		top:15%;
+		top:20%;
 	}
 }
 
