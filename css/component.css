@@ -71,22 +71,22 @@
 	.demo-1 .main-title, 
 	.demo-3 .main-title,
 	.demo-4 .main-title {
-		font-size: 1em;
-		top:5%;
+		font-size: 2em;
+		top:10%;
 	}
 
 	.demo-2 .main-title {
 		font-size: 4em;
 	}
 	.login{
-		top:10%;
+		top:15%;
 	}
 }
 .login{
 	position: absolute;
 	z-index: 1000;
 	/*left: 50%;*/
-	top: 20%;
+	top: 30%;
 	width: 100%;
 }
 body{
