@@ -43,12 +43,20 @@
 	top: 30%;
 	width: 100%;
 }
+.tran{
+	font-family: "微软雅黑";
+	font-size: 1em;
+	margin-bottom: 5%;
+}
 @media only screen and (max-width : 768px) {
 	.demo-1 .main-title, 
 	.demo-3 .main-title,
 	.demo-4 .main-title {
 		top:15%;
 		font-size: 3em;
+	}
+	.tran{
+		font-size: 1em;
 	}
 
 	.demo-2 .main-title {
@@ -66,7 +74,9 @@
 		font-size: 2em;
 		top:10%;
 	}
-
+	.tran{
+		font-size: 0.1em;
+	}
 	.demo-2 .main-title {
 		font-size: 4em;
 	}
