@@ -3415,11 +3415,11 @@ tbody.collapse.in {
   display: inline-block;
   width: 0;
   height: 0;
-  margin-left: 10px;
+  margin-left: 5px;
   vertical-align: middle;
-  border-top: 8px dashed;
-  border-right: 8px solid transparent;
-  border-left: 8px solid transparent;
+  border-top: 4px dashed;
+  border-right: 4px solid transparent;
+  border-left: 4px solid transparent;
 }
 .dropup,
 .dropdown {

@@ -49,8 +49,8 @@
                  <div class="input-group">
                   <input type="text" class="form-control" aria-label="...">
                   <div class="input-group-btn">
-                    <button type="button" class="btn btn-default dropdown-toggle" data-toggle="dropdown" aria-haspopup="true" aria-expanded="false" onclick="a()">Action <span class="caret"></span></button>
-                    <ul class="dropdown-menu dropdown-menu-right">
+                    <span class="caret" onclick="a()"></span>
+                    <ul class="dropdown-menu dropdown-menu-right" id="dropdown">
                       <li><a href="#">Action</a></li>
                       <li><a href="#">Another action</a></li>
                       <li><a href="#">Something else here</a></li>
@@ -71,7 +71,8 @@
 
     <script type="text/javascript">
       function a(){
-        alert("1");
+        var dropdown=document.getElementById("dropdown");
+        dropdown.display="block";
       }
     </script>
     <script src="js/TweenLite.min.js" type="text/javascript"></script>
