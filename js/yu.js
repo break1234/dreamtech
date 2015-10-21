@@ -4,14 +4,14 @@ $(function(){
 	$(".dropdown-menu li").click(function(){
 		$(".input-group input").val($(this).text());
 	})
-	/*$(".input-group-btn").click(function(){
+	$(".input-group-btn").click(function(){
 		//$(".dropdown-menu").slideDown();
-		//alert("click")
+		alert("click")
 	})
 	$("input").focus(function(){
 		$(".dropdown-menu").slideUp();
 	})
 	$("li").click(function(){
 		$(".dropdown-menu").slideUp();
-	})*/
+	})
 })
