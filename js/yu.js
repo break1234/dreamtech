@@ -6,7 +6,7 @@ $(function(){
 	})
 	$(".input-group-btn").click(function(){
 		//$(".dropdown-menu").slideDown();
-		alert("click")
+		//alert("click")
 	})
 	$("input").focus(function(){
 		$(".dropdown-menu").slideUp();
