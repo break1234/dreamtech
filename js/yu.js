@@ -10,6 +10,7 @@ $(function(){
 	})
 	$("input").focus(function(){
 		$(".dropdown-menu").slideUp();
+		alert("1")
 	})
 	$("li").click(function(){
 		$(".dropdown-menu").slideUp();
