@@ -4,7 +4,7 @@ $(function(){
 	$(".dropdown-menu li").click(function(){
 		$(".input-group input").val($(this).text());
 	})
-	$(".input-group-btn").click(function(){
+	/*$(".input-group-btn").click(function(){
 		//$(".dropdown-menu").slideDown();
 		//alert("click")
 	})
@@ -13,5 +13,5 @@ $(function(){
 	})
 	$("li").click(function(){
 		$(".dropdown-menu").slideUp();
-	})
+	})*/
 })
