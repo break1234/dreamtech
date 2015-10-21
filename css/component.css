@@ -135,8 +135,8 @@ body{
 	background: #E6E6E6;
 	cursor: pointer;
 }
-/*.caret{
+.caret{
 	color: black;
 	text-align: center;
 	margin-right: 2px;
-}*/
+}
